@@ -9,9 +9,8 @@ My contributions to AstraZenca's azTidyTuesday initiative
 
 <table border="0">
     <tr>
-        <td style="text-align:right">
+        <td style="text-align:center">
           <h3> <a name="billboard"> 🎶  </a> Music features and Billboard charts </h3>
-          [<a href="azTidyTuesday_20220906_AlvaroMendoza/code.R">code</a>]
         </td>   
         <td style="text-align:center"><img 
           src="azTidyTuesday_20220906_AlvaroMendoza/weeks_on_chart_vs_top_var_lm_hex.png"
@@ -19,6 +18,9 @@ My contributions to AstraZenca's azTidyTuesday initiative
           height=100% 
           align="center">
         </td>     
+        <td style="text-align:center">
+          [<a href="azTidyTuesday_20220906_AlvaroMendoza/code.R">code</a>]
+        </td>     
     </tr>
 </table>
 
@@ -26,16 +28,18 @@ My contributions to AstraZenca's azTidyTuesday initiative
 
 <table border="0">
     <tr>
+        <td style="text-align:center">
+          <h3> <a name="phd"> 🧑‍🔬 </a> PhD's progression </h3>
+        </td>   
         <td style="text-align:center"><img 
           src="azTidyTuesday_20220510_AlvaroMendoza/phds_by_field.png"
           width=65%
           height=100% 
           align="center">
         </td>     
-        <td style="text-align:left">
-          <h3> <a name="phd"> 🧑‍🔬 </a> PhD's progression </h3>
+        <td style="text-align:center">
           [<a href="azTidyTuesday_20220510_AlvaroMendoza/tidyTuesday20220510.R">code</a>]
-        </td>   
+        </td>     
     </tr>
 </table>
 
@@ -43,15 +47,17 @@ My contributions to AstraZenca's azTidyTuesday initiative
 
 <table border="0">
     <tr>
-        <td style="text-align:right">
+        <td style="text-align:center">
           <h3> <a name="gender_ratio"> 👫 </a> Gender ratio per industry </h3>
-          [<a href="azTidyTuesday_20220315_AlvaroMendoza/tidyTuesday20220315.R">code</a>]
         </td>   
         <td style="text-align:center"><img 
           src="azTidyTuesday_20220315_AlvaroMendoza/gender_ratio_per_industry.png"
           width=70%
           height=100% 
           align="center">
+        </td>     
+        <td style="text-align:center">
+          [<a href="azTidyTuesday_20220315_AlvaroMendoza/tidyTuesday20220315.R">code</a>]
         </td>     
     </tr>
 </table>
